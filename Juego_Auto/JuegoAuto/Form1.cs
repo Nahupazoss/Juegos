@@ -40,14 +40,14 @@ namespace JuegoAuto
             int ubicacionObstaculo = randomObstaculos.Next(1, 3);
 
             int distanciaUbicacionObstaculo = (ubicacionObstaculo == 1) ? distanciauno : distanciados;
-
             PictureBox pb = new PictureBox();
             pb.Location = new Point(distanciaUbicacionObstaculo, 0);
             pb.Image = (Bitmap)Properties.Resources.ResourceManager.GetObject("Obstaculo"+numeroAuto+tipoObstaculo);
+            pb.BringToFront();
             pb.BackColor = Color.Transparent;
             pb.Tag = numeroAuto + "_" + tipoObstaculo;
             pb.SizeMode = PictureBoxSizeMode.AutoSize;
-
+            pb.BringToFront();
             listObstaculos.Add(pb);
             panelJuegoUno.Controls.Add(pb);
 
@@ -118,8 +118,8 @@ namespace JuegoAuto
                 }
             }
 
-          
-         */  
+          */
+         
         }
 
         public void ReiniciarJuego()
