@@ -17,3 +17,6 @@ C:\Users\Rodri\source\repos\JuegoAutoSolucion\JuegoAuto\obj\Debug\net5.0-windows
 C:\Users\Rodri\source\repos\JuegoAutoSolucion\JuegoAuto\obj\Debug\net5.0-windows\ref\JuegoAuto.dll
 C:\Users\Rodri\source\repos\JuegoAutoSolucion\JuegoAuto\obj\Debug\net5.0-windows\JuegoAuto.pdb
 C:\Users\Rodri\source\repos\JuegoAutoSolucion\JuegoAuto\obj\Debug\net5.0-windows\JuegoAuto.genruntimeconfig.cache
+C:\Users\Rodri\source\repos\JuegoAutoSolucion\JuegoAuto\bin\Debug\net5.0-windows\Juego.dll
+C:\Users\Rodri\source\repos\JuegoAutoSolucion\JuegoAuto\bin\Debug\net5.0-windows\Juego.pdb
+C:\Users\Rodri\source\repos\JuegoAutoSolucion\JuegoAuto\obj\Debug\net5.0-windows\JuegoAuto.csproj.CopyComplete

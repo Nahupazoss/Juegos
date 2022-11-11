@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "JuegoAuto/1.0.0": {
+        "dependencies": {
+          "Juego": "1.0.0"
+        },
         "runtime": {
           "JuegoAuto.dll": {}
+        }
+      },
+      "Juego/1.0.0": {
+        "runtime": {
+          "Juego.dll": {}
         }
       }
     }
   },
   "libraries": {
     "JuegoAuto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Juego/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

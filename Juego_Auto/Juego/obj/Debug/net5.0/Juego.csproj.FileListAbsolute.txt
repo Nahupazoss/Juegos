@@ -1,0 +1,12 @@
+C:\Users\Rodri\source\repos\JuegoAutoSolucion\Juego\bin\Debug\net5.0\Juego.deps.json
+C:\Users\Rodri\source\repos\JuegoAutoSolucion\Juego\bin\Debug\net5.0\Juego.dll
+C:\Users\Rodri\source\repos\JuegoAutoSolucion\Juego\bin\Debug\net5.0\ref\Juego.dll
+C:\Users\Rodri\source\repos\JuegoAutoSolucion\Juego\bin\Debug\net5.0\Juego.pdb
+C:\Users\Rodri\source\repos\JuegoAutoSolucion\Juego\obj\Debug\net5.0\Juego.csproj.AssemblyReference.cache
+C:\Users\Rodri\source\repos\JuegoAutoSolucion\Juego\obj\Debug\net5.0\Juego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodri\source\repos\JuegoAutoSolucion\Juego\obj\Debug\net5.0\Juego.AssemblyInfoInputs.cache
+C:\Users\Rodri\source\repos\JuegoAutoSolucion\Juego\obj\Debug\net5.0\Juego.AssemblyInfo.cs
+C:\Users\Rodri\source\repos\JuegoAutoSolucion\Juego\obj\Debug\net5.0\Juego.csproj.CoreCompileInputs.cache
+C:\Users\Rodri\source\repos\JuegoAutoSolucion\Juego\obj\Debug\net5.0\Juego.dll
+C:\Users\Rodri\source\repos\JuegoAutoSolucion\Juego\obj\Debug\net5.0\ref\Juego.dll
+C:\Users\Rodri\source\repos\JuegoAutoSolucion\Juego\obj\Debug\net5.0\Juego.pdb
